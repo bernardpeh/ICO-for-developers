@@ -2,13 +2,14 @@
 
 ICO for Developers is a short course showcasing the power and limitations of the ethereum programing language - [Solidity](https://solidity.readthedocs.io/en/develop/).
 
-Other than being a cryptocurrency, the biggest use case for Ethereum at the moment is the ability to launch a Crowd funding app (ICO). 
+Other than being a cryptocurrency, the biggest use case for Ethereum at the moment is the ability to launch a Crowd funding app ([ICO](https://en.wikipedia.org/wiki/Initial_coin_offering)). 
 
-This course will focus on giving you the development skills to launch your ICO. It should be a good learning experience for developers who are new to solidity.
+This course will focus on giving you the development skills to launch your ICO. It should be a good learning experience for developers who are new to solidity and want to jumpstart into creating ICO Smart Contracts.
 
-Try to understand the concepts rather than jumping into the syntax straight away. It would make life a lot easier when you start coding.
+Try to understand the concepts rather than jumping into the syntax straight away. It will make life a lot easier when you start coding.
 
-Solidity looks like javascript but its not and the terminologies can be confusing.
+Solidity looks like javascript but its not. The terminologies can be confusing and there are pitfalls for the unwary.
+
 
 ## Pre-requisites
 
@@ -24,7 +25,7 @@ You should be able to:
 
 * Install [ether explorer](https://github.com/etherparty/explorer)
 
-* git clone git@github.com:bernardpeh/solidity_ninja.git or fork
+* fork git@github.com:bernardpeh/ICO-for-developers.git
 
 
 ## Course Content
@@ -60,6 +61,7 @@ You should be able to:
 * Deploying a real Crowdsale contract to the main Ethereum Network.
 
 * Simple Crowdsale frontend.
+
 
 ## Quick start
 
