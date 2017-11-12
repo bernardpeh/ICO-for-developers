@@ -113,6 +113,12 @@ Private Keys
 
 * Base on ethstats.net, calculate max transactions per second of the ethereum network. Check your answer with https://etherchain.org/ 
 
+* How can this code be helpful
+
+```
+address.call(bytes4(bytes32(sha3("SomeFunction(uint,bytes32)"))), 1, "hello")
+```
+
 # Tips
 
 * Many people like the old remix browser better:  https://yann300.github.io
